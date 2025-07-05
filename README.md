@@ -1,9 +1,8 @@
 # 💫 About Me:
 <p>🔭 I’m currently working on to enhance TypeScript and working on more frontend designing</p>
-<p>👯 I’m looking to collaborate on</p>
-<p>🤝 I’m looking for help with</p>
+
 <p>🌱 I’m currently learning JavaScript</p>
-<br>
+
 <p>⚡ Fun fact: I might be a vibe coder, idk</p>
 
 
