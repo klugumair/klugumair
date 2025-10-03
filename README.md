@@ -1,9 +1,9 @@
 # 💫 About Me:
-<p>🔭 I’m currently working on to enhance TypeScript and working on more frontend designing</p>
+<p>🔭 I’m currently working on to enhance TypeScript and I’m an 18-year-old developer from Pakistan passionate about building scalable websites, web apps, and business solutions. With skills in both frontend and backend, I love turning ideas into working products.</p>
 
 <p>🌱 I’m currently learning JavaScript</p>
 
-<p>⚡ Fun fact: I might be a vibe coder, idk</p>
+
 
 
 # 💻 Tech Stack:
