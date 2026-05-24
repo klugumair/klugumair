@@ -3,6 +3,8 @@
 
 <p>🌱 I’m currently learning JavaScript</p>
 
+[![Download CV](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge)](file:///A:/Work%20stuff/Muhammad_Umair_FlowCV_Resume_2026-05-24.pdf)
+
 
 
 
