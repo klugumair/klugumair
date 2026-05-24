@@ -1,10 +1,32 @@
-# 💫 About Me:
-<p>🔭 I’m currently working on to enhance TypeScript and I’m an 18-year-old developer from Pakistan passionate about building scalable websites, web apps, and business solutions. With skills in both frontend and backend, I love turning ideas into working products.</p>
+# Hey there! I'm Muhammad Umair 👋
 
-<p>🌱 I’m currently learning JavaScript</p>
+### Full Stack Engineer | APIs, AI Agents, SaaS & Automation
 
-[![Download CV](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge)](file:///A:/Work%20stuff/Muhammad_Umair_FlowCV_Resume_2026-05-24.pdf)
+A high-performance Full-Stack Developer specializing in the MERN stack, SaaS MVP building, and advanced AI integrations. I focus on bridging the gap between flexible development and rigid application security boundaries.
 
+<p align="left">
+  <a href="https://flowcv.com/resume/kr53sfmilto6" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My-Resume%20%2F%20CV-blueviolet?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Technical Ecosystem
+
+- **Frontend:** React.js, TypeScript, JavaScript, Tailwind CSS, HTML5/CSS3
+- **Backend & APIs:** Node.js, Express.js, GraphQL, REST APIs, Supabase
+- **AI & Automation:** AI Agents, Intelligent Chatbots, Workflow Automation (n8n), Local LLMs (Ollama)
+- **Databases & DevOps:** MongoDB, PostgreSQL, Git/GitHub, Vercel, Netlify
+
+---
+
+### 🚀 What I'm Up To
+- 🛠️ Engineering production-ready SaaS MVPs with tight security baselines.
+- 🤖 Architecting structured data contracts around non-deterministic AI agent outputs.
+- 💼 Available for freelance collaborations and remote contract opportunities.
+
+📬 **Reach Out:** umairjalbani80@gmail.com
 
 
 
